@@ -1,0 +1,3 @@
+"/data/images/022302_young_male_drowsiness_6_dms_20200116182023_normal_00010_face000.jpg", 0.84,0.77,0.67
+"/data/images/022302_young_male_drowsiness_6_dms_20200116182023_normal_00010_face001.jpg", 0.74,0.75,0.63
+
